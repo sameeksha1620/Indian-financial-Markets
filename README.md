@@ -1,4 +1,4 @@
-# Indian Financial Markets README
+# Indian Financial Markets 
 
 This README file provides an overview of the contents and key concepts covered in the "Indian Financial Markets" report. The report is aimed at providing readers with a comprehensive understanding of various aspects related to Indian financial markets, including investment motivation, market types, securities markets, non-securities markets, and more.
 
